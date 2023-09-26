@@ -1,3 +1,6 @@
 C:/Users/Jenya/MyProjects/VesPet/build/CMakeFiles/VesPet.dir
 C:/Users/Jenya/MyProjects/VesPet/build/CMakeFiles/ALL_BUILD.dir
 C:/Users/Jenya/MyProjects/VesPet/build/CMakeFiles/ZERO_CHECK.dir
+C:/Users/Jenya/MyProjects/VesPet/build/external/glfw/CMakeFiles/ALL_BUILD.dir
+C:/Users/Jenya/MyProjects/VesPet/build/external/glfw/src/CMakeFiles/glfw.dir
+C:/Users/Jenya/MyProjects/VesPet/build/external/glfw/src/CMakeFiles/update_mappings.dir
