@@ -177,6 +177,10 @@ if %errorlevel% neq 0 goto :VCEnd</Command>
       <Project>{B154D954-D48B-35F8-8BE5-FFBD627FD2B1}</Project>
       <Name>VesPet</Name>
     </ProjectReference>
+    <ProjectReference Include="C:\Users\Jenya\MyProjects\VesPet\build\external\glad\glad.vcxproj">
+      <Project>{8E278B32-96E6-39EF-88FF-8A44D2E90C03}</Project>
+      <Name>glad</Name>
+    </ProjectReference>
     <ProjectReference Include="C:\Users\Jenya\MyProjects\VesPet\build\external\glfw\src\glfw.vcxproj">
       <Project>{3CBE6BD9-AC86-3168-8D31-AA12F025F59B}</Project>
       <Name>glfw</Name>
