@@ -1,0 +1,3 @@
+C:/Users/Jenya/MyProjects/VesPet/build/CMakeFiles/VesPet.dir
+C:/Users/Jenya/MyProjects/VesPet/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/Jenya/MyProjects/VesPet/build/CMakeFiles/ZERO_CHECK.dir

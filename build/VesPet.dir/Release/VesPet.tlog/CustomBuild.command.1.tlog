@@ -1,0 +1,10 @@
+^C:\USERS\JENYA\MYPROJECTS\VESPET\CMAKELISTS.TXT
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/Jenya/MyProjects/VesPet -BC:/Users/Jenya/MyProjects/VesPet/build --check-stamp-file C:/Users/Jenya/MyProjects/VesPet/build/CMakeFiles/generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
