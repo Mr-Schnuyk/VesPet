@@ -13,4 +13,10 @@
       <UniqueIdentifier>{26AA3FB3-C4BE-3467-90E0-82028F803E58}</UniqueIdentifier>
     </Filter>
   </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="resource.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="VesPet.rc" />
+  </ItemGroup>
 </Project>
